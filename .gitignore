@@ -1,0 +1,9 @@
+
+*.metadata/*
+*.exe
+*/mvnw*
+*.jar
+*.class
+*.zip
+*mvnw*
+*.jar
